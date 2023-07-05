@@ -12,4 +12,6 @@ Credit risk refers to the potential loss that arises when a borrower fails to re
 
 The dataset contains 466,285 rows, each representing a unique loan application, and comprises 74 features. These features provide valuable information about the loan applicants, including their personal details, financial information, employment history, and more. The dataset is carefully curated to capture a comprehensive view of the borrowers and their creditworthiness.
 
-![Borrower Status Rate](https://github.com/Yanyan2410/VIX-IDX_Patrners-Credit-Risk-Loan-Prediction/blob/main/Images/Borrower%20status%20rate.png)
+![Borrower Status Rate](https://github.com/Yanyan2410/VIX-IDX_Patrners-Credit-Risk-Loan-Prediction/blob/main/Images/Borrower's%20Status%20Rate.png)
+
+The data analysis from 2007 to 2016 reveals a significant data imbalance, with 87.71% classified as "good" borrowers and only 12.29% as "bad.

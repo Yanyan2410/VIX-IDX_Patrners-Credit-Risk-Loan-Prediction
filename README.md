@@ -2,7 +2,7 @@
 
 Tools: Python, Google Colab, Numpy, Pandas, Scipy, Matplotlib, Seaborn, Scikit-Learn
 
-Data Dictionary: '[Lending Club Data Dictionary](https://docs.google.com/spreadsheets/d/1Og_fBlwLbltnhaWC8TTjwUUr3iagMFLQ/edit?usp=sharing&ouid=117420950293102487407&rtpof=true&sd=true)'
+Data Dictionary: [Lending Club Data Dictionary](https://docs.google.com/spreadsheets/d/1Og_fBlwLbltnhaWC8TTjwUUr3iagMFLQ/edit?usp=sharing&ouid=117420950293102487407&rtpof=true&sd=true)
 
 Project Background
 

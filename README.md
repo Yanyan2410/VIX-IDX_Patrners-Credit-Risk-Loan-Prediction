@@ -1,4 +1,4 @@
-# VIX IDX Patrners - Credit Risk Loan Prediction
+# VIX IDX Partners - Credit Risk Loan Prediction
 
 ![Personal Loan](https://github.com/Yanyan2410/VIX-IDX_Patrners-Credit-Risk-Loan-Prediction/blob/main/Images/PERSONAL-LOANS.jpg)
 

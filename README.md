@@ -72,9 +72,13 @@ key Takeaways:
 
 # Data Preprocessing
 - Feature Engineering
+
 = Handling Duplicate Value
+
 = Feature Encoding
+
 = Data Transformation
+
 = Outlier Handling
 
 # Modeling

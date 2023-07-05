@@ -1,3 +1,5 @@
+![Personal Loan](https://github.com/Yanyan2410/VIX-IDX_Patrners-Credit-Risk-Loan-Prediction/blob/main/Images/PERSONAL-LOANS.jpg)
+
 # VIX-IDX_Patrners-Credit-Risk-Loan-Prediction
 
 Tools: Python, Google Colab, Numpy, Pandas, Scipy, Matplotlib, Seaborn, Scikit-Learn

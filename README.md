@@ -71,15 +71,16 @@ key Takeaways:
 - The percentage of borrowers who successfully make payments (good borrowers) tends to increase each year. This suggests that the number of borrowers effectively managing their repayment obligations is growing over time.
 
 # Data Preprocessing
+
 - Feature Engineering
 
-= Handling Duplicate Value
+- Handling Duplicate Value
 
-= Feature Encoding
+- Feature Encoding
 
-= Data Transformation
+- Data Transformation
 
-= Outlier Handling
+- Outlier Handling
 
 # Modeling
 
